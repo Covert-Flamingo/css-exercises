@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.firstclass{
+    background-color: #FFCCCB;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#blue{
+    color: #0000FF;
+    font-size: 36px;
+}
+.secondclass{
+    background-color: #FFCCCB;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
+#green{
+    background-color: #88E788;
+    font-size: 24px;
+    font-weight: bold;
+}
